@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">taller_manillas</string>
+    <string name="titulo">Empresa XYZ</string>
+    <string name="material">Material</string>
+    <string name="dije">Dije</string>
+    <string name="tipo">Tipo</string>
+    <string name="moneda">Moneda</string>
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
 </resources>
