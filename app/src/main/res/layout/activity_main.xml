@@ -111,12 +111,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
+            android:onClick="limpiar"
             android:text="@string/limpiar" />
 
         <Button
             android:id="@+id/button"
             android:layout_width="184dp"
             android:layout_height="wrap_content"
+            android:onClick="calcular"
             android:text="@string/calcular" />
     </LinearLayout>
 

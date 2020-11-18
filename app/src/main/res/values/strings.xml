@@ -7,4 +7,37 @@
     <string name="moneda">Moneda</string>
     <string name="calcular">Calcular</string>
     <string name="limpiar">Limpiar</string>
+
+    <string name="cuero">Cuero</string>
+    <string name="cuerda">Cuerda</string>
+    <string-array name="opciones_material">
+        <item>@string/cuero</item>
+        <item>@string/cuerda</item>
+    </string-array>
+
+    <string name="martillo">Martillo</string>
+    <string name="ancla">Ancla</string>
+    <string-array name="opciones_dije">
+        <item>@string/martillo</item>
+        <item>@string/ancla</item>
+    </string-array>
+
+    <string name="oro">Oro</string>
+    <string name="oro_rosado">Oro rosado</string>
+    <string name="plata">Plata</string>
+    <string name="niquel">Niquel</string>
+    <string-array name="opciones_tipo">
+        <item>@string/oro</item>
+        <item>@string/oro_rosado</item>
+        <item>@string/plata</item>
+        <item>@string/niquel</item>
+    </string-array>
+
+    <string name="pesos">Pesos</string>
+    <string name="dolar">Dolar</string>
+    <string-array name="opciones_moneda">
+        <item>@string/pesos</item>
+        <item>@string/dolar</item>
+    </string-array>
+
 </resources>
